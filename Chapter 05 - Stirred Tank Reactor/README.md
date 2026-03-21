@@ -1,5 +1,17 @@
 # Chapter 5: Numerical Simulation and Design Optimisation of Hydrodynamics and Mixing Process in a Stirred Tank Reactor (STR)
 
+- [Overview](#overview)
+- [Contents](#contents)
+- [Key Concepts](#key-concepts)
+- [Usage](#usage)
+- [Python Dependencies](#python-dependencies)
+- [Model Description](#model-description)
+- [Workflow](#workflow)
+- [Input Data Format](#input-data-format)
+- [Output](#output)
+- [Notes](#notes)
+- [References](#references)
+
 ## Overview
 
 This chapter focuses on the numerical simulation and design optimisation of hydrodynamics and mixing processes in a Stirred Tank Reactor (STR). The implementations provided here demonstrate:
@@ -143,7 +155,7 @@ run('MATLAB_livescript.mlx')
 Runs all four steps interactively with inline outputs and plots.
 
 
-## Python Dependencies (see requirements file)
+## Python Dependencies
 
 - `numpy`
 - `scipy`
