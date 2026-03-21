@@ -1,5 +1,7 @@
 # Chapter 8: Mathematical Modelling of the Effects of Compression of Fouling Layers as a Predictive Tool in Membrane Bioreactor Systems (MBR)
 
+## Table of Contents
+
 - [Overview](#overview)
 - [Contents](#contents)
 - [Key Concepts](#key-concepts)
