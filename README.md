@@ -58,7 +58,7 @@ The book covers advanced mathematical modeling and optimisation techniques for f
 
 - **Excel** - Data storage and preliminary analysis
 - **MATLAB** - Design of Experiments (DOE) and Response Surface optimisation, mathematical modelling, and optimisation
-- **Python** - Design of Experiments (DOE), and Response Surface optimisation, mathematical modelling, and optimisation
+- **Python** - Design of Experiments (DOE) and Response Surface optimisation, mathematical modelling, and optimisation
 - **Fluent** - Numerical simulation of mixing parameters
 
 ## 🚀 Getting Started
