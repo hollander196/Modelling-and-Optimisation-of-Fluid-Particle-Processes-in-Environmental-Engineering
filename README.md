@@ -71,7 +71,7 @@ The book covers advanced mathematical modeling and optimisation techniques for f
 - virtual environment manager
 
 #### For MATLAB
-- MATLAB R2018b or higher
+- MATLAB R2024b or higher
 - Statistics and Machine Learning Toolbox
 - Optimisation Toolbox
 
